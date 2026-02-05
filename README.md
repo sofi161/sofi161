@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sofi!
-- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on all development and design related stuffss.
 - 📫 How to reach me
 -     Portfolio: https://portfoliosofi.netlify.app/
